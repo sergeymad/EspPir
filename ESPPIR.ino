@@ -4,8 +4,8 @@ const char *ssid = "MyASUS_7595";
 const char *pass = "11111111"; 
 const char *mqtt_server = "m13.cloudmqtt.com"; 
 const int mqtt_port = 14483; 
-const char *mqtt_user = "xxxxxx"; 
-const char *mqtt_pass = "xxxxxx";
+const char *mqtt_user = "Uppercase"; 
+const char *mqtt_pass = "LittleOne#21";
 const int PIR = D7; 
 #define BUFFER_SIZE 100
 int tm = 300;
