@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 const char *ssid = "MyASUS_7595"; 
 const char *pass = "11111111"; 
-const char *mqtt_server = "m13.cloudmqtt.com"; 
+const char *mqtt_server = "192.168.105.41"; 
 const int mqtt_port = 14483; 
 const char *mqtt_user = "Uppercase"; 
 const char *mqtt_pass = "LittleOne#21";
